@@ -1,5 +1,10 @@
 {
+  "name": "FindBySchema",
+  "version": "0.0.1",
   "scripts": {
     "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "18.1.0"
   }
 }

@@ -1,9 +1,10 @@
 Find by schema
 
 ## Install
-
-npm Install
-
+```sh
+npm install
+```
 ## Test
-
-run npm test
+```sh
+npm test
+```

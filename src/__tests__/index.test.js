@@ -1,4 +1,4 @@
-const findBySchema = require("../find")
+const findBySchema = require("../index")
 
 describe("findBySchema(facts, schema)", ( ) => {
   const facts = [

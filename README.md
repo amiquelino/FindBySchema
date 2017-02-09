@@ -1,4 +1,6 @@
-Find by schema
+Exemple: Find by schema
+
+javascript + jest
 
 ## Install
 ```sh

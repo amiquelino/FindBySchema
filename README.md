@@ -1,4 +1,4 @@
-Exemple: Find by schema
+Example: Find by schema
 
 javascript + jest
 
